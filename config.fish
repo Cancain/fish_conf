@@ -1,0 +1,1 @@
+/home/tomeri/dotfiles/config.fish
